@@ -1,0 +1,228 @@
+{
+  "candidates": {
+    "ve-k22-d2": {
+      "repo": "wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1",
+      "revision": "8347bfb8776287ef2dcab2b46e9f15c655825c3a",
+      "files": [
+        {
+          "name": ".gitattributes",
+          "bytes": 1716,
+          "sha256": null,
+          "git_blob_id": "456bd44ac9597e1f3be0f3a2a84069255adc6b70",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/.gitattributes"
+        },
+        {
+          "name": "LICENSE",
+          "bytes": 1084,
+          "sha256": null,
+          "git_blob_id": "d62e3bef9f054f21b7fc616365850fbf879a99ff",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/LICENSE"
+        },
+        {
+          "name": "README.md",
+          "bytes": 2001,
+          "sha256": null,
+          "git_blob_id": "a91d29e2a66d2a0b0cefd43004b6c829c81bf3e3",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/README.md"
+        },
+        {
+          "name": "config.json",
+          "bytes": 7067,
+          "sha256": null,
+          "git_blob_id": "4bc9301e3ab8f3e79afaa47cc8e54b6f2ee8af44",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/config.json"
+        },
+        {
+          "name": "encoding/README.md",
+          "bytes": 2517,
+          "sha256": null,
+          "git_blob_id": "d4ade1ba7d55827dda29d203f9b1ff2b40b5d3ff",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/README.md"
+        },
+        {
+          "name": "encoding/encoding_dsv4.py",
+          "bytes": 36707,
+          "sha256": null,
+          "git_blob_id": "5853aef3ea50d41013bb196d9369c91c298d3782",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/encoding_dsv4.py"
+        },
+        {
+          "name": "encoding/test_encoding_dsv4.py",
+          "bytes": 6577,
+          "sha256": null,
+          "git_blob_id": "42a97757eb832b5ce258245211ea7f8f5b003a50",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/test_encoding_dsv4.py"
+        },
+        {
+          "name": "encoding/tests/test_input_1.json",
+          "bytes": 2748,
+          "sha256": null,
+          "git_blob_id": "d423b221fa88153a826f7724cc938e0703858c21",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_input_1.json"
+        },
+        {
+          "name": "encoding/tests/test_input_2.json",
+          "bytes": 526,
+          "sha256": null,
+          "git_blob_id": "13b3454a902deecafe75644b41cd6b3e4a0e5354",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_input_2.json"
+        },
+        {
+          "name": "encoding/tests/test_input_3.json",
+          "bytes": 4546,
+          "sha256": null,
+          "git_blob_id": "10034844edfc33b954ae530f35590132cdf4a342",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_input_3.json"
+        },
+        {
+          "name": "encoding/tests/test_input_4.json",
+          "bytes": 2730,
+          "sha256": null,
+          "git_blob_id": "d5e0791dd6997a2007f3aa917919a680521bcd51",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_input_4.json"
+        },
+        {
+          "name": "encoding/tests/test_output_1.txt",
+          "bytes": 2390,
+          "sha256": null,
+          "git_blob_id": "7e3c9bd5a394617f02d76384d613d991e60d48bd",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_output_1.txt"
+        },
+        {
+          "name": "encoding/tests/test_output_2.txt",
+          "bytes": 342,
+          "sha256": null,
+          "git_blob_id": "fc397ef549728ad6083a577010192e62f3edeee4",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_output_2.txt"
+        },
+        {
+          "name": "encoding/tests/test_output_3.txt",
+          "bytes": 3313,
+          "sha256": null,
+          "git_blob_id": "edee563300d49b0c46af1429a1e1b00b15610a72",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_output_3.txt"
+        },
+        {
+          "name": "encoding/tests/test_output_4.txt",
+          "bytes": 2552,
+          "sha256": null,
+          "git_blob_id": "d30bd5d06cf39fe110bc4406292fccde0444c120",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/encoding/tests/test_output_4.txt"
+        },
+        {
+          "name": "generation_config.json",
+          "bytes": 170,
+          "sha256": null,
+          "git_blob_id": "c56a8c5bf06ff7740b6a33ee67b38b6237a230b1",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/generation_config.json"
+        },
+        {
+          "name": "model-00001-of-00011.safetensors",
+          "bytes": 8589633992,
+          "sha256": "1dbfd7d2967c7fc059003cba8a6820ce890efa40c94ada1cb7151123b2ed1078",
+          "git_blob_id": "488d3a2522fc414a6c499e1d4b01920894f9ea22",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00001-of-00011.safetensors"
+        },
+        {
+          "name": "model-00002-of-00011.safetensors",
+          "bytes": 8589522604,
+          "sha256": "e2373da8b38ec21ebdc5f4933f3b2e671bcb11fd8c08f734c5cb8e57da4a6aa3",
+          "git_blob_id": "66235b3b5515e24ba6b8a2578e30b518ae168c87",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00002-of-00011.safetensors"
+        },
+        {
+          "name": "model-00003-of-00011.safetensors",
+          "bytes": 8591103072,
+          "sha256": "638c8dbfe63714bf580248e2aa55ed2ec9f0c88b420f28783f8434e25be41f38",
+          "git_blob_id": "1855a81f204cd5766895e1dca63ee50cbf95f764",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00003-of-00011.safetensors"
+        },
+        {
+          "name": "model-00004-of-00011.safetensors",
+          "bytes": 8590997424,
+          "sha256": "76559323a13ebf011fc75e4ce0c559d4ce0ae176a039afc4be6ab2a1a0795b71",
+          "git_blob_id": "5570dd93edc6edb692a3286573f817cdefb30cc9",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00004-of-00011.safetensors"
+        },
+        {
+          "name": "model-00005-of-00011.safetensors",
+          "bytes": 8591038804,
+          "sha256": "6a20a92cf80b7e87f02f18542fca78b65564daf78c4e0087ad8e898d413cb0de",
+          "git_blob_id": "f618666af0dd3b66c3d40ec833c9bc50da066253",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00005-of-00011.safetensors"
+        },
+        {
+          "name": "model-00006-of-00011.safetensors",
+          "bytes": 8590091988,
+          "sha256": "8c2dfe60ea7200ec6a4b888ef875808e986de6b9c59341de186d5fb8d1fe29da",
+          "git_blob_id": "70543bee418e154f5bd75eeb19f37b94bba68e5c",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00006-of-00011.safetensors"
+        },
+        {
+          "name": "model-00007-of-00011.safetensors",
+          "bytes": 8591163940,
+          "sha256": "3176cfcb83d756074c639fbf19e3c48c9aed9def38fa51bf3ceb1c3d5f5ff7c6",
+          "git_blob_id": "7afbf4f7aaab51395cb11d10acb2e0dde3f10290",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00007-of-00011.safetensors"
+        },
+        {
+          "name": "model-00008-of-00011.safetensors",
+          "bytes": 8589901528,
+          "sha256": "c63ffbbb0caab2ed33c81ea8d363ff87028e992574596a4a0186c98ab261f576",
+          "git_blob_id": "c88b94b94b0db4806c4d8b742450e94c89472321",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00008-of-00011.safetensors"
+        },
+        {
+          "name": "model-00009-of-00011.safetensors",
+          "bytes": 8591061420,
+          "sha256": "7e2fc03d05ead5fe8fc537c8aac424b785bc05df1d2ca9c0fee05db3a3f109cc",
+          "git_blob_id": "80b694ac9a9c22f3cb2aef8db7fbedaf68a2caaf",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00009-of-00011.safetensors"
+        },
+        {
+          "name": "model-00010-of-00011.safetensors",
+          "bytes": 8591153004,
+          "sha256": "c42d1227582f5b05cf5f6d3dbf1694496a59f799913f6ce4536ad03afbb72255",
+          "git_blob_id": "631a2144e2e82a969636c8bcf3dccd52db54f1a8",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00010-of-00011.safetensors"
+        },
+        {
+          "name": "model-00011-of-00011.safetensors",
+          "bytes": 5933375136,
+          "sha256": "495545cb9db487cb6926c13914aadfd925ee0d2e2be39152e400ec479db1c277",
+          "git_blob_id": "1ba98e31a4d22c64c5447b96b3c20040ad317636",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model-00011-of-00011.safetensors"
+        },
+        {
+          "name": "model.safetensors.index.json",
+          "bytes": 12583789,
+          "sha256": "e60d178a5a0c1972236724c396f8b31eed954afae15d12b2e6afafc56987b2bc",
+          "git_blob_id": "38d25715c99cab219bb10760dab9364c11fb7728",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/model.safetensors.index.json"
+        },
+        {
+          "name": "quantize_config.json",
+          "bytes": 28376287,
+          "sha256": "f5c0f30bd57bba3e0e3dc20d84584310f81de1c665ff91be6b395b6426015d41",
+          "git_blob_id": "b423fb5dcc413f8f98d3426a8819f08fdb67c954",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/quantize_config.json"
+        },
+        {
+          "name": "tokenizer.json",
+          "bytes": 6367257,
+          "sha256": null,
+          "git_blob_id": "6a15814dd25c934028034531da744c689f87ff21",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/tokenizer.json"
+        },
+        {
+          "name": "tokenizer_config.json",
+          "bytes": 801,
+          "sha256": null,
+          "git_blob_id": "f3dad388a2bbfd6a8605bd02754acd86d9ca5112",
+          "url": "https://huggingface.co/wrldsuksgo2mars/DeepSeek-V4-Flash-Vision-Exp-EXL3-K2.2-D2-v1/resolve/8347bfb8776287ef2dcab2b46e9f15c655825c3a/tokenizer_config.json"
+        }
+      ],
+      "total_bytes": 91886448032
+    }
+  }
+}

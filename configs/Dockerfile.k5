@@ -1,0 +1,6 @@
+# Experimental only: the graft declares one next-layer, allowing K4/K5.
+# The grep guard fails the build if the expected entrypoint line moves.
+ARG BASE=ve-single:b6b1ef4
+FROM ${BASE}
+RUN sed -i 's/if (( vision_model \&\& dspark_tokens % 3 != 0 )); then/if (( vision_model \&\& dspark_tokens % 3 != 0 \&\& 0 )); then/' /opt/recipe/scripts/k2-entrypoint.sh \
+ && grep -q 'dspark_tokens % 3 != 0 && 0' /opt/recipe/scripts/k2-entrypoint.sh
